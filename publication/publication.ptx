@@ -34,4 +34,5 @@
     />	
   </common>
   <webwork server="https://webwork-ptx.aimath.org" />
+  <html embed-button="yes"/>
 </publication>
